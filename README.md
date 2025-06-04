@@ -1,7 +1,7 @@
 # PredictWasteAct – Smart Food Waste Prediction & NGO Matcher
 PredictWasteAct is a machine learning-based Streamlit application that aims to reduce food waste in commercial kitchens and events by predicting excess food and recommending suitable NGOs for redistribution. It leverages predictive modeling and location intelligence to enable efficient food donations.
 
-🌟 Key Features
+# 🌟 Key Features
 Predict Food Surplus: Estimates the number of people who can be served based on event inputs.
 
 Suggest Nearby NGOs: Filters and ranks NGOs based on distance and available capacity.
@@ -10,7 +10,7 @@ Visual Comparison: Displays NGO capacities against predicted surplus.
 
 CSV Export: Allows downloading the top NGO suggestions.
 
-🧠 Tech Stack
+# 🧠 Tech Stack
 Machine Learning: XGBoost
 
 Web Framework: Streamlit
@@ -21,7 +21,7 @@ Data Handling: pandas, numpy
 
 Visualization: matplotlib
 
-📦 Datasets Used
+# 📦 Datasets Used
 NGO Dataset: A custom-curated dataset of NGOs in Hyderabad, including name, address, strength, and contact details.
 
 Input Features: Simulated event-level features like guest count, food quantity, pricing indicators, and food type used to predict wastage.
