@@ -22,13 +22,14 @@ Data Handling: pandas, numpy
 Visualization: matplotlib
 
 # 📦 Datasets Used
-NGO Dataset: A custom-curated dataset of NGOs in Hyderabad, including name, address, strength, and contact details.
+1. Food Wastage Prediction Dataset
+This dataset was sourced from Kaggle and contains various event-level parameters such as guest count, quantity of food prepared, pricing tiers, and food type. These features are used to train a machine learning model that predicts how many people the leftover food can serve.
 
 [Download Food Wastage Dataset from Kaggle](https://www.kaggle.com/datasets/trevinhannibal/food-wastage-data-in-restaurant?resource=download)
 
 
-Input Features: Simulated event-level features like guest count, food quantity, pricing indicators, and food type used to predict wastage.
+2. NGO Dataset (Hyderabad)
+A custom-curated dataset created through primary data collection from NGOs in Hyderabad. It includes NGO names, addresses, strengths (capacity to serve), and contact details. The dataset is used to match predicted food wastage with suitable NGOs based on distance and capacity.
 
-💡 Due to privacy and ownership considerations, the NGO dataset is not publicly hosted.
-
-📬 If you're a student, researcher, or developer interested in accessing the dataset for academic or nonprofit purposes, feel free to reach out to me at [your.email@example.com].
+⚠️ Due to privacy and ownership considerations, the NGO dataset is not publicly available.
+📬 If you're a student, researcher, or developer interested in academic/nonprofit use, feel free to email me at [pramithabodepudi@gmail.com] to request access.
