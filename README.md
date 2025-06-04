@@ -23,5 +23,7 @@ Visualization: matplotlib
 
 # 📦 Datasets Used
 NGO Dataset: A custom-curated dataset of NGOs in Hyderabad, including name, address, strength, and contact details.
+[Download Food Wastage Dataset from Kaggle](https://www.kaggle.com/datasets/trevinhannibal/food-wastage-data-in-restaurant?resource=download)
+
 
 Input Features: Simulated event-level features like guest count, food quantity, pricing indicators, and food type used to predict wastage.
