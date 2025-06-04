@@ -36,6 +36,7 @@ A custom-curated dataset created through primary data collection from NGOs in Hy
 📬 If you're a student, researcher, or developer interested in academic/nonprofit use, feel free to email me at [pramithabodepudi@gmail.com] to request access.
 
 
-![Alt Text](![1 readme](https://github.com/user-attachments/assets/e6903a26-9c09-44ab-b55b-ce2340a4eb25)
-)
+
+(![1 readme](https://github.com/user-attachments/assets/e6903a26-9c09-44ab-b55b-ce2340a4eb25)
+
 
