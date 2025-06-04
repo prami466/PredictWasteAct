@@ -25,7 +25,7 @@ Visualization: matplotlib
 1. Food Wastage Prediction Dataset
 This dataset was sourced from Kaggle and contains various event-level parameters such as guest count, quantity of food prepared, pricing tiers, and food type. These features are used to train a machine learning model that predicts how many people the leftover food can serve.
 
-[Download Food Wastage Dataset from Kaggle](https://www.kaggle.com/datasets/trevinhannibal/food-wastage-data-in-restaurant?resource=download)
+  [Download Food Wastage Dataset from Kaggle](https://www.kaggle.com/datasets/trevinhannibal/food-wastage-data-in-restaurant?resource=download)
 
 
 2. NGO Dataset (Hyderabad)
