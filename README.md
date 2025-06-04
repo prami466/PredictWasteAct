@@ -32,4 +32,5 @@ This dataset was sourced from Kaggle and contains various event-level parameters
 A custom-curated dataset created through primary data collection from NGOs in Hyderabad. It includes NGO names, addresses, strengths (capacity to serve), and contact details. The dataset is used to match predicted food wastage with suitable NGOs based on distance and capacity.
 
 ⚠️ Due to privacy and ownership considerations, the NGO dataset is not publicly available.
+
 📬 If you're a student, researcher, or developer interested in academic/nonprofit use, feel free to email me at [pramithabodepudi@gmail.com] to request access.
