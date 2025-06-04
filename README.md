@@ -28,3 +28,7 @@ NGO Dataset: A custom-curated dataset of NGOs in Hyderabad, including name, addr
 
 
 Input Features: Simulated event-level features like guest count, food quantity, pricing indicators, and food type used to predict wastage.
+
+💡 Due to privacy and ownership considerations, the NGO dataset is not publicly hosted.
+
+📬 If you're a student, researcher, or developer interested in accessing the dataset for academic or nonprofit purposes, feel free to reach out to me at [your.email@example.com].
